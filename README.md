@@ -21,7 +21,7 @@ A simple Test Case Management System built with the MERN stack (MongoDB, Express
 
     ```bash
     git clone https://github.com/yourusername/mern-testcase-management.git
-    cd mern-testcase-management/server
+    cd testdb/backend
     ```
 
 2. Install dependencies:
@@ -47,7 +47,7 @@ A simple Test Case Management System built with the MERN stack (MongoDB, Express
 1. Navigate to the frontend directory:
 
     ```bash
-    cd ../mern-testcases-client
+    cd ..
     ```
 
 2. Install dependencies:
@@ -59,7 +59,7 @@ A simple Test Case Management System built with the MERN stack (MongoDB, Express
 3. Start the React application:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage
