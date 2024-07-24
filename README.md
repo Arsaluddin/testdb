@@ -64,7 +64,7 @@ A simple Test Case Management System built with the MERN stack (MongoDB, Express
 
 ## Usage
 
-- Open your browser and navigate to `http://localhost:3000`
+- Open your browser and navigate to `http://localhost:5173/`
 - Manage your test cases in real-time
 
 ## License
